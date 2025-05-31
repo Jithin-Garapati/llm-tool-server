@@ -1,5 +1,17 @@
 # LLM Tool Server
 
+## Getting Started
+
+To get started with this project:
+
+1.  **Clone the repository:**
+    ```bash
+    git clone https://github.com/Jithin-Garapati/llm-tool-server.git
+    cd llm-tool-server
+    ```
+2.  **Explore the documentation:**
+    Continue reading this README to understand how to set up your environment, create new tools, and integrate them with Large Language Models.
+
 This project provides a simple framework for creating and exposing custom tools as API endpoints, making them easily accessible to Large Language Models (LLMs) or any other application capable of making HTTP requests.
 
 It uses [FastAPI](https://fastapi.tiangolo.com/) for building the APIs and [Pydantic](https://docs.pydantic.dev/) for data validation.
