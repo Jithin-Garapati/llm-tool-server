@@ -1,0 +1,15 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+env/
+
+# IDE / Editor specific
+.vscode/
+.idea/
+*.swp
+*.swo
